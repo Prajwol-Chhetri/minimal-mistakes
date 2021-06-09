@@ -7,8 +7,7 @@ layout: single
 title: "Portfolio"
 author_profile: true
 classes: wide
-
-
+---
 
 feature_row1:
   - image_path: assets/images/discord.png
@@ -50,6 +49,7 @@ feature_row3:
         - SMS        
 
 
+
 #Skills
 Python, Bash Scripting, MySQL, HTML/CSS3, Git, Linux, XML
 
@@ -61,4 +61,4 @@ Python, Bash Scripting, MySQL, HTML/CSS3, Git, Linux, XML
 {% include feature_row id="feature_row3" type="left" %}
 
 
----
+
