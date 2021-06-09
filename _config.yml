@@ -15,11 +15,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Portfolio Website"
+title                    : "Prajwol Chhetri"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Prajwol Chhetri"
-description              : "A flexible Jekyll theme for my Portfolio website with a minimalist aesthetic."
+description              : "I'm a student currently learning python"
 url                      : "https://prajwol-chhetri.github.io/minimal-mistakes/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Prajwol-Chhetri/minimal-mistakes"
