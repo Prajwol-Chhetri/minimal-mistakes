@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Home"
-    url: https://prajwol-chhetri.github.io/minimal-mistakes/
   - title: "About"
-    url: https://prajwol-chhetri.github.io/minimal-mistakes/about/
+    url: /about/
   - title: "Portfolio"
-    url: https://prajwol-chhetri.github.io/minimal-mistakes/portfolio/
+    url: /portfolio/
   - title: "Resume"
     url: /assets/docs/resume.pdf
   - title: "Contact"
-    url: https://prajwol-chhetri.github.io/minimal-mistakes/contact/
+    url: /contact/
