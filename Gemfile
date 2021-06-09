@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-
+gem "jekyll-remote-theme"
 gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
@@ -15,3 +15,4 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
 end
+
