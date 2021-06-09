@@ -20,7 +20,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Prajwol Chhetri"
 description              : "I'm a student currently learning python"
-url                      : "https://prajwol-chhetri.github.io/minimal-mistakes/"
+url                      : "https://prajwol-chhetri.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Prajwol-Chhetri/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
