@@ -1,8 +1,14 @@
 ---
+permalink: /portfolio/
+title: "Portfolio"
+classes: wide
+
 layout: single
 title: "Portfolio"
 author_profile: true
 classes: wide
+
+
 
 feature_row1:
   - image_path: assets/images/discord.png
@@ -55,4 +61,4 @@ Python, Bash Scripting, MySQL, HTML/CSS3, Git, Linux, XML
 {% include feature_row id="feature_row3" type="left" %}
 
 
-
+---
