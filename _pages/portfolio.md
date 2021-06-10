@@ -15,7 +15,7 @@ feature_row1:
   - image_path: assets/images/discord.png
     alt: "placeholder image 2"
     title: "Discord Bot"
-    text: "lorem ipsum dolor sit ames"
+    text: "In this project, I created a bot using discord.py module of python. This bot scrapes real time data from NEPSE's official website and presents to user in readable format. User can use various commands like knowing current status of market, top gainers or losers or also real time details of certain scripts."
     url: "https://github.com/Prajwol-Chhetri/Discord_bot"
     btn_label: "Code"
     btn_class: "btn--primary"
