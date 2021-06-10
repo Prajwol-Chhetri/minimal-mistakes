@@ -19,5 +19,4 @@ Or you can also leave a message.
   </fieldset>
 </form>
   
-
-<br>[Send Message](#){: .btn .btn--success}
+[Send Message](#){: .btn .btn--success}
