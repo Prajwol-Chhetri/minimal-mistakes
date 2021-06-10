@@ -16,7 +16,7 @@ feature_row1:
     alt: "placeholder image 2"
     title: "Discord Bot"
     text: "In this project, I created a bot using discord.py module of python. This bot scrapes real time data from NEPSE's official website and presents to user in readable format. User can use various commands like knowing current status of market, top gainers or losers or also real time details of certain scripts."
-    url: "https://github.com/Prajwol-Chhetri/Discord_bot"
+    url: "#https://github.com/Prajwol-Chhetri/Discord_bot"
     btn_label: "Code"
     btn_class: "btn--primary"
     tags: 
@@ -29,7 +29,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "Image Detector"
     text: "lorem ipsum dolor sit ames"
-    url: "https://github.com/Prajwol-Chhetri/image-detector"
+    url: "#https://github.com/Prajwol-Chhetri/image-detector"
     btn_label: "Code"
     btn_class: "btn--primary"
     tags: 
@@ -42,7 +42,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "SMS Bot"
     text: "lorem ipsum dolor sit ames"
-    url: "https://github.com/Prajwol-Chhetri/Sms-Bot"
+    url: "#https://github.com/Prajwol-Chhetri/Sms-Bot"
     btn_label: "Code"
     btn_class: "btn--primary"
     tags: 
