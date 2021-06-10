@@ -15,7 +15,7 @@ Or you can also leave a message.
   <fieldset>
     Name: <input type="text" size="30"><br>
     Email: <input type="text" size="30"><br>
-    Message: <input type="text" class="user_msg" size="100">
+    Message: <textarea class="longInput" cols="30" rows="10"></textarea>
   </fieldset>
 </form>
   
