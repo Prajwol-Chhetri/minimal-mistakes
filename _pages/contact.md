@@ -20,4 +20,4 @@ Or you can also leave a message.
 </form>
   
 
-<a href="#" class="btn--success">Success Button</a>
+<a href="#" class="btn--success">Submit</a>
