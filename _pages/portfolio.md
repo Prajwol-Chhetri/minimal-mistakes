@@ -52,12 +52,12 @@ feature_row3:
 
 ---
 
-## Skills
+# Skills
 Python, Bash Scripting, MySQL, HTML/CSS3, Git, Linux, XML
 
 
 
-## Projects
+# Projects
 
 {% include feature_row id="feature_row1" type="left" %}
 
