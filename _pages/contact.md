@@ -15,9 +15,9 @@ Or you can also leave a message.
   <fieldset>
     Name: <input type="text" size="30"><br>
     Email: <input type="text" size="30"><br>
-    Message: <input type="text" size="100"><br>
+    Message: <input type="text" size="100">
   </fieldset>
 </form>
   
 
-[Send Message](#){: .btn .btn--success}
+<br>[Send Message](#){: .btn .btn--success}
