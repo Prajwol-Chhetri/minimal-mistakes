@@ -49,7 +49,7 @@ Python, Bash Scripting, MySQL, HTML/CSS3, Git, Linux, XML
 
 
 # Projects
-Here I present selected projects that show my Programming skills.
+Here I present selected projects that show my Programming skills.  
 For full list of the projects I worked on checkout my [Github](https://github.com/Prajwol-Chhetri).
 <br>
 
