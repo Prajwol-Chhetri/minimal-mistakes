@@ -1,6 +1,5 @@
 ---
-title: "Prajwol Chhetri"
-layout: single
+layout: splash
 author_profile: true
 permalink: /
 hidden: true
