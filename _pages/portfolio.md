@@ -45,9 +45,8 @@ feature_row3:
 
 # Skills
 Python, Bash Scripting, MySQL, HTML/CSS3, Git, Linux, XML
-
-
-
+<br>
+<br>
 # Projects
 Here I present selected projects that show my Programming skills.  
 For full list of the projects I worked on checkout my [Github](https://github.com/Prajwol-Chhetri).
