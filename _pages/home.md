@@ -4,31 +4,18 @@ permalink: /
 hidden: true
 header:
   image: /assets/images/background.jpg
-  caption: "Photo by [Vitaliy Gavrushchenko](https://unsplash.com/@gavrushchenko) on [Unsplash](https://unsplash.com)"
-
-feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+  caption: "Photo by [Vitaliy Gavrushchenko](https://unsplash.com/@gavrushchenko) on [Unsplash](https://unsplash.com)"  
 ---
 
 
-{% include feature_row %}
+# Hello!
+# I'm Prajwol Chhetri
+
+Welcome to my site.  
+I am currently looking for job opportunities where I can work in a challenging position combining my skills in Software engineering, which provides professional development, interesting experiences and personal growth.   
+
+**What I do**  
+I am currently a student at Islington College pursuing my undergraduate in Bsc.(Hons) Computing.  
+
+**Get in touch**  
+I’m active on [linkedin](https://www.linkedin.com/in/prajwol-chhetri-4215b0184) and would love to connect with you or you can also [email](mailto:prajwolc391@gmail.com) me.
