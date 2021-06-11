@@ -27,7 +27,7 @@ feature_row2:
     title: "Image Detector"
     text: "lorem ipsum dolor sit ames"
     url: "https://github.com/Prajwol-Chhetri/image-detector"
-    btn_label: [Code](https://github.com/Prajwol-Chhetri/image-detector)
+    btn_label: "[Code](https://github.com/Prajwol-Chhetri/image-detector)"
     btn_class: "btn--primary"
 
 
