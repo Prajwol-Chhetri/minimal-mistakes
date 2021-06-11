@@ -1,5 +1,6 @@
 ---
 layout: splash
+author_profile: true
 permalink: /
 hidden: true
 header:
