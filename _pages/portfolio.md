@@ -52,7 +52,8 @@ Python, Bash Scripting, MySQL, HTML/CSS3, Git, Linux, XML
 Here I present selected projects that show my Programming skills.  
 For full list of the projects I worked on checkout my [Github](https://github.com/Prajwol-Chhetri).
 <br>
-
+<br>
+<br>
 {% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
