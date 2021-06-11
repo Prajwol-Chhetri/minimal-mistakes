@@ -22,20 +22,20 @@ feature_row1:
 
 
 feature_row2:
-  - image_path: assets/images/discord.png
+  - image_path: assets/images/image_ai.png
     alt: "placeholder image 2"
     title: "Image Detector"
-    text: "lorem ipsum dolor sit ames"
+    text: "In this project, I developed a script that predicts the content in the image. Using open CV module of python implementing this script was pretty easy."
     url: https://github.com/Prajwol-Chhetri/image-detector
     btn_label: "Code"
     btn_class: "btn--primary"
 
 
 feature_row3:
-  - image_path: assets/images/discord.png
+  - image_path: assets/images/sms.jpg
     alt: "placeholder image 2"
     title: "SMS Bot"
-    text: "lorem ipsum dolor sit ames"
+    text: "In this project, I developed a script that can be used to send sms to one's phone number. I used twwilio API to send message. This script can be pretty handy and the possibilities to use it are endless."
     url: "https://github.com/Prajwol-Chhetri/Sms-Bot"
     btn_label: "Code"
     btn_class: "btn--primary"
