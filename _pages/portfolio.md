@@ -114,7 +114,7 @@ feature_row11:
     btn_class: "btn--primary"
 
 feature_row12:
-  - image_path: assets/images/flask.PNG
+  - image_path: assets/images/flask.png
     alt: "placeholder image 2"
     title: "Contact Page Using Flask"
     text: "In this project, I developed a server which saves the form details filled by the user in the contact us form page to a csv file. I created the server using Flask to retreive and store the details provided by user in the csv file. The webpage is hosted in [pythonanywhere](https://www.pythonanywhere.com/)."
