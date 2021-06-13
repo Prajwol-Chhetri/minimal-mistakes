@@ -139,7 +139,6 @@ For full list of the projects I worked on checkout my [Github](https://github.co
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row12" type="left" %}
-
 {% include feature_row id="feature_row7" type="left" %}
 
 {% include feature_row id="feature_row9" type="left" %}
