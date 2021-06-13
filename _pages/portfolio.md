@@ -67,6 +67,50 @@ feature_row6:
     url: "https://github.com/Prajwol-Chhetri/pdf-playground"
     btn_label: "Code"
     btn_class: "btn--primary"
+
+feature_row7:
+  - image_path: assets/images/translator.PNG
+    alt: "placeholder image 2"
+    title: "translator App"
+    text: "In this project, I developed an application that can translate any text into any one of 89 languages of User's choice. The GUI for the application I built was developed using Tkinter module of python and the translation is done using google trans module which uses Google translator API to translate the text. The text that needs to be translated is entered in the first text box and the translated text is displayed in the translated box."
+    url: "https://github.com/Prajwol-Chhetri/Translation_App"
+    btn_label: "Code"
+    btn_class: "btn--primary"
+
+feature_row8:
+  - image_path: assets/images/weather.PNG
+    alt: "placeholder image 2"
+    title: "Weather App"
+    text: "In this project, I developed an application that can display the weather of any district of Nepal. To develop this application I used tkinter to create a GUI in which user can enter the name of the district he/she wishes to look. The weather of the district is fetched from [Nepal Weather API](https://nepal-weather-api.herokuapp.com/en/). The fetched data is parsed and displayed to the user."
+    url: "https://github.com/Prajwol-Chhetri/weather_app"
+    btn_label: "Code"
+    btn_class: "btn--primary"
+
+feature_row9:
+  - image_path: assets/images/contact.PNG
+    alt: "placeholder image 2"
+    title: "Contact App"
+    text: "In this project, I developed contact book application. The GUI is created with Tkinter. The user can store the details of the contact, edit certain record, delete a certain record or show stored records. The records are stored in the database using SQLLite3 module of python."
+    url: "https://github.com/Prajwol-Chhetri/Contact_App"
+    btn_label: "Code"
+    btn_class: "btn--primary"
+
+feature_row10:
+  - image_path: assets/images/viewer.PNG
+    alt: "placeholder image 2"
+    title: "Image Viewer App"
+    text: "In this project, I developed an application that works as a image Viewer. One can easily see the images in the images folder using this app. Buttons are added in the app to move to next image or go back to previous image or terminate the app. This app is developed using Tkinter and PIL module of python."
+    url: "https://github.com/Prajwol-Chhetri/img_viewer"
+    btn_label: "Code"
+    btn_class: "btn--primary"
+
+feature_row11:
+  - image_path: assets/images/calculator.PNG
+    alt: "placeholder image 2"
+    title: "Calculator"
+    text: "In this project, I developed a calculator using Tkinter module of python to create a simple gui based calculator. It can performs addition, subtraction, multiplication and division function."
+    btn_label: "Code"
+    btn_class: "btn--primary"
 ---
 
 # Skills
@@ -83,6 +127,16 @@ For full list of the projects I worked on checkout my [Github](https://github.co
 {% include feature_row id="feature_row4" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row7" type="left" %}
+
+{% include feature_row id="feature_row9" type="left" %}
+
+{% include feature_row id="feature_row10" type="left" %}
+
+{% include feature_row id="feature_row11" type="left" %}
+
+{% include feature_row id="feature_row8" type="left" %}
 
 {% include feature_row id="feature_row5" type="left" %}
 
