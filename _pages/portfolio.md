@@ -109,6 +109,7 @@ feature_row11:
     alt: "placeholder image 2"
     title: "Calculator"
     text: "In this project, I developed a calculator using Tkinter module of python to create a simple gui based calculator. It can performs addition, subtraction, multiplication and division function."
+    url: "https://github.com/Prajwol-Chhetri/calculator"
     btn_label: "Code"
     btn_class: "btn--primary"
 ---
