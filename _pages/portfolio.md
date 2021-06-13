@@ -112,6 +112,15 @@ feature_row11:
     url: "https://github.com/Prajwol-Chhetri/calculator"
     btn_label: "Code"
     btn_class: "btn--primary"
+
+feature_row12:
+  - image_path: assets/images/flask.PNG
+    alt: "placeholder image 2"
+    title: "Contact Page Using Flask"
+    text: "In this project, I developed a server which saves the form details filled by the user in the contact us form page to a csv file. I created the server using Flask to retreive and store the details provided by user in the csv file. The webpage is hosted in [pythonanywhere](https://www.pythonanywhere.com/)."
+    url: "https://github.com/Prajwol-Chhetri/Contact_Me_Flask"
+    btn_label: "Code"
+    btn_class: "btn--primary"
 ---
 
 # Skills
@@ -129,13 +138,15 @@ For full list of the projects I worked on checkout my [Github](https://github.co
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row11" type="left" %}
+{% include feature_row id="feature_row12" type="left" %}
 
 {% include feature_row id="feature_row7" type="left" %}
 
 {% include feature_row id="feature_row9" type="left" %}
 
 {% include feature_row id="feature_row10" type="left" %}
+
+{% include feature_row id="feature_row11" type="left" %}
 
 {% include feature_row id="feature_row8" type="left" %}
 
