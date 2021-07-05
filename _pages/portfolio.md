@@ -130,6 +130,15 @@ feature_row13:
     url: "https://github.com/Prajwol-Chhetri/Blog"
     btn_label: "Code"
     btn_class: "btn--primary"
+
+feature_row14:
+  - image_path: assets/images/todo.png
+    alt: "placeholder image 2"
+    title: "Todo Application Using Django"
+    text: "In this project, I developed a todo application using django. User can add their daily tasks and easily view them. I've used sqlite3 to store the model."
+    url: "https://github.com/Prajwol-Chhetri/todo"
+    btn_label: "Code"
+    btn_class: "btn--primary"
 ---
 
 # Skills
