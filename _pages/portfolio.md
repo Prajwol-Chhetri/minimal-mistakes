@@ -122,6 +122,14 @@ feature_row12:
     btn_label: "Code"
     btn_class: "btn--primary"
 
+feature_row13:
+  - image_path: assets/images/blog.png
+    alt: "placeholder image 2"
+    title: "Blog Using Django"
+    text: "In this project, I developed a blog site using django. User can add, edit blogs through admin panel."
+    url: "https://github.com/Prajwol-Chhetri/Blog"
+    btn_label: "Code"
+    btn_class: "btn--primary"
 ---
 
 # Skills
@@ -144,6 +152,8 @@ For full list of the projects I worked on checkout my [Github](https://github.co
 {% include feature_row id="feature_row12" type="left" %}
 
 {% include feature_row id="feature_row9" type="left" %}
+
+{% include feature_row id="feature_row13" type="left" %}
 
 {% include feature_row id="feature_row10" type="left" %}
 
