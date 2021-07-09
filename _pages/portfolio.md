@@ -126,8 +126,8 @@ feature_row13:
   - image_path: assets/images/blog.png
     alt: "placeholder image 2"
     title: "Blog Using Django"
-    text: "In this project, I developed a blog site using django. User can add, edit blogs through admin panel."
-    url: "https://github.com/Prajwol-Chhetri/Blog"
+    text: "In this project, I developed a CRUD Application with Django and Bootstrap. I have implemented Login system so that only staff and admin can make changes like create, update or delete to the blog or authors."
+    url: "https://github.com/Prajwol-Chhetri/CRUD_Django"
     btn_label: "Code"
     btn_class: "btn--primary"
 
