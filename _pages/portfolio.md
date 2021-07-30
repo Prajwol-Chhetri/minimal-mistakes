@@ -144,7 +144,7 @@ feature_row15:
   - image_path: assets/images/rest.png
     alt: "placeholder image 2"
     title: "Backend REST API Using Django REST Framework"
-    text: "In this project, I developed a Backend REST API using Django REST Framework. The API allows to create, update, delete & manage user profiles. It Authenticates user using their username and password. It also allows user to view feed items only if they are aauthenticated and only manage feed items that they own."
+    text: "In this project, I developed a Backend REST API using Django REST Framework. The API allows to create, update, delete & manage user profiles. It Authenticates user using their username and password. It also allows user to view feed items only if they are authenticated and only manage feed items that they own."
     url: "https://github.com/Prajwol-Chhetri/Profiles-REST-API"
     btn_label: "Code"
     btn_class: "btn--primary"  
