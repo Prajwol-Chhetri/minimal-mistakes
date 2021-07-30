@@ -139,6 +139,15 @@ feature_row14:
     url: "https://github.com/Prajwol-Chhetri/todo"
     btn_label: "Code"
     btn_class: "btn--primary"
+
+feature_row15:
+  - image_path: assets/images/rest.png
+    alt: "placeholder image 2"
+    title: "Backend REST API Using Django REST Framework"
+    text: "In this project, I developed a Backend REST API using Django REST Framework. The API allows to create, update, delete & manage user profiles. It Authenticates user using their username and password. It also allows user to view feed items only if they are aauthenticated and only manage feed items that they own."
+    url: "https://github.com/Prajwol-Chhetri/Profiles-REST-API"
+    btn_label: "Code"
+    btn_class: "btn--primary"  
 ---
 
 # Skills
@@ -151,6 +160,8 @@ For full list of the projects I worked on checkout my [Github](https://github.co
 <br>
 <br>
 {% include feature_row id="feature_row1" type="left" %}
+
+{% include feature_row id="feature_row15" type="left" %}
 
 {% include feature_row id="feature_row4" type="left" %}
 
